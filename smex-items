@@ -1,0 +1,43 @@
+
+;; ----- smex-history -----
+(
+ enlarge-window
+ shrink-window-horizontally
+ enlarge-window-horizontally
+ windmove-right
+ indent-for-tab-command
+ indent-for-comment
+ query-replace
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 10)
+ (package-refresh-contents . 3)
+ (irc . 1)
+ (shell-dirtrack-toggle . 1)
+ (shell . 3)
+ (projectile-grep . 5)
+ (list-packages . 1)
+ (list-matching-lines . 1)
+ (package-list-packages . 4)
+ (elixir-mode . 2)
+ (elixir-mode-open-github . 1)
+ (elixir-mode-open-elixir-home . 2)
+ (projectile-switch-open-project . 2)
+ (alchemist-iex-project-run . 2)
+ (alchemist-iex-run . 14)
+ (alchemist-iex-compile-this-buffer . 9)
+ (alchemist-iex-start-process . 1)
+ (alchemist-iex-mode . 1)
+ (alchemist-mode . 1)
+ (alchemist-help . 1)
+ (indent-for-tab-command . 9)
+ (increase-left-margin . 2)
+ (query-replace . 6)
+ (indent-for-comment . 1)
+ (windmove-right . 1)
+ (enlarge-window-horizontally . 1)
+ (shrink-window-horizontally . 1)
+ (enlarge-window . 1)
+)

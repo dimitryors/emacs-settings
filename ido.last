@@ -1,0 +1,191 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/dmitry/projects/gorynich/apps/regis/" . "src/")
+ ("/Users/dmitry/projects/estore/" . "src/")
+ ("/Users/dmitry/projects/gorynich/apps/gorynich/" . "src/")
+ ("/Users/dmitry/projects/gorynich/apps/" . "regis/")
+ ("/Users/dmitry/projects/gorynich/" . "apps/")
+ ("/Users/dmitry/projects/nikola/engineer_blog/output/posts/" . "moi-pervyi-post/")
+ ("/Users/dmitry/projects/nikola/include/" . "python3.7m/")
+ ("/Users/dmitry/projects/nikola/engineer_blog/" . "posts/")
+ ("/Users/dmitry/projects/nikola/" . "engineer_blog/")
+ ("/Users/dmitry/projects/" . "estore/")
+ ("/Users/dmitry/work/pulsedb/" . "src/")
+ ("/Users/dmitry/work/dalmatinerdb/apps/metric_vnode/" . "src/")
+ ("/Users/dmitry/work/dalmatinerdb/apps/" . "metric_vnode/")
+ ("/Users/dmitry/work/dalmatinerdb/" . "apps/")
+ ("/Users/dmitry/work/mfiles/apps/mfiles/" . "src/")
+ ("/Users/dmitry/work/mfiles/apps/" . "mfiles/")
+ ("/Users/dmitry/work/mfiles/" . "apps/")
+ ("/" . "Users/")
+ ("/Users/" . "dmitry/")
+ ("/Users/dmitry/work/bitmap/" . "src/")
+ ("/Users/dmitry/work/estore/" . "src/")
+ ("/Users/dmitry/" . ".emacs.d/")
+ ("/Users/dmitry/.emacs.d/plugins/" . "flymake/")
+ ("/Users/dmitry/.emacs.d/" . "plugins/")
+ ("/Users/dmitry/work/mstore/" . "src/")
+ ("/Users/dmitry/work/" . "pulsedb/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/dmitry/"
+ "/Users/dmitry/projects/estore/src/"
+ "/Users/dmitry/projects/gorynich/apps/regis/src/"
+ "/Users/dmitry/projects/gorynich/apps/gorynich/src/"
+ "/Users/dmitry/projects/nikola/engineer_blog/posts/"
+ "/Users/dmitry/projects/estore/"
+ "/Users/dmitry/projects/elixir-learn/"
+ "/Users/dmitry/projects/"
+ "/Users/dmitry/projects/nikola/engineer_blog/output/posts/moi-pervyi-post/"
+ "/Users/dmitry/projects/nikola/engineer_blog/"
+ "/Users/dmitry/projects/nikola/engineer_blog/output/"
+ "/Users/dmitry/projects/gorynich/"
+ "/Users/dmitry/work/pulsedb/src/"
+ "/Users/dmitry/work/gorynich/"
+ "/Users/dmitry/work/bitmap/src/"
+ "/Users/dmitry/work/estore/src/"
+ "/Users/dmitry/.emacs.d/plugins/flymake/"
+ "/Users/dmitry/work/dalmatinerdb/apps/metric_vnode/src/"
+ "/Users/dmitry/work/mfiles/apps/mfiles/src/"
+ "/Users/dmitry/work/mstore/src/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "efile.erl"
+ "regis_pstore_ets.erl"
+ "gorynich_kv_ets.erl"
+ "prostoe-failovoe-khranilishche-na-erlang.rst"
+ "estore.app.src"
+ "README.md"
+ "estore.erl"
+ "length_converter.ex"
+ "gorynich.erl"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/dmitry/" (23866 8405 950223 463000) ".viminfo" ".bash_history" ".cache/" "Downloads/" ".bash_profile" ".kerl/" ".vscode/" "Documents/" ".Trash/" ".Rapp.history" "sources/" "Applications/" ".emacs" "Movies/" ".ssh/" "#foo#" "work/" "Public/" ".bash_sessions/" ".tarantool_history" ".emacs.d/" ".erlang.cookie" "Library/" "Desktop/" "monit01/" "source/" "Pictures/" "projects/" "bin/" ".wget-hsts" ".CFUserTextEncoding" ".DS_Store" "Music/" ".config/" ".org-timestamps/" "../" "./")
+
+ ("/Users/dmitry/projects/simplestore/apps/simplestore/src/" (23866 7967 210783 916000) "simplestore_app.erl" "simplestore_sup.erl" "simplestore_file.erl" "simplestore.app.src" "../" "./")
+
+ ("/Users/dmitry/projects/estore/src/" (23866 6672 231060 273000) "estore.erl" "efile.erl" "estore.app.src" "../" "./")
+
+ ("/Users/dmitry/projects/Dotted-Version-Vectors/" (23755 29815 984509 64000) "src/" "rebar.config" ".git/" "_build/" ".gitignore" "rebar.lock" "README.md" "Makefile" "images/" "test/" "../" "./")
+
+ ("/Users/dmitry/projects/simplestore/" (23864 47557 421018 627000) "rebar.config" "apps/" ".gitignore" "README.md" "config/" "LICENSE" "../" "./")
+
+ ("/Users/dmitry/projects/simplestore/apps/" (23864 47557 415739 831000) "simplestore/" "../" "./")
+
+ ("/Users/dmitry/projects/simplestore/apps/simplestore/" (23864 47557 415797 824000) "src/" "../" "./")
+
+ ("/Users/dmitry/projects/gorynich/apps/regis/src/" (23741 24723 956770 683000) "regis_pnode_s.erl" "regis_pstore_ets.erl" "regis.app.src" "regis_app.erl" "regis_sup.erl" "regis.erl" "../" "./")
+
+ ("/Users/dmitry/projects/gorynich/apps/regis/" (23741 24723 955501 822000) "src/" "../" "./")
+
+ ("/Users/dmitry/projects/nikola/engineer_blog/posts/" (23864 51512 355427 957000) "prostoe-failovoe-khranilishche-na-erlang.rst" "moi-pervyi-post.rst" "../" "./")
+
+ ("/Users/dmitry/projects/nikola/engineer_blog/" (23863 35101 515798 199000) "themes/" "pages/" "galleries/" ".doit.db" "files/" "sync.sh" "__pycache__/" "output/" "conf.py" "listings/" "plugins/" "cache/" "posts/" "state_data.json" "../" "./")
+
+ ("/Users/dmitry/projects/" (23864 47557 415552 30000) "estore_/" "Dotted-Version-Vectors/" "nikola/" "elixir-learn/" "test.org" "gorynich/" "estore/" "emacs/" "nkdist/" "bitmap/" "rts/" "mstore/" "simplestore/" "../" "./")
+
+ ("/Users/dmitry/projects/estore_/" (23863 29515 721874 958000) "rebar.config" "apps/" ".gitignore" "README.md" "config/" "LICENSE" "../" "./")
+
+ ("/Users/dmitry/projects/estore_/apps/estore_/src/" (23862 41652 158572 80000) "estore__sup.erl" ".#efile_.erl" "estore__app.erl" "estore_.app.src" "efile_.erl" "../" "./")
+
+ ("/Users/dmitry/projects/estore/exmaplestore/" (23846 23686 784052 638000) "estore" "18087.estore" "18087.idx" "../" "./")
+
+ ("/Users/dmitry/projects/estore_/apps/" (23862 39828 377888 964000) "estore_/" "../" "./")
+
+ ("/Users/dmitry/projects/estore_/apps/estore_/" (23862 39828 377932 110000) "src/" "../" "./")
+
+ ("/Users/dmitry/projects/gorynich/apps/gorynich/src/" (23827 58852 72622 40000) "gorynich_sup.erl" "gorynich.erl" "gorynich_kv_ets.erl" "gorynich_app.erl" "gorynich_vproc_vnode_worker.erl" "gorynich_vproc_store.erl" "gorynich_vproc_vnode.erl" "gorynich_proc_sample.erl" "gorynich_console.erl" "gorynich.app.src" "gorynich_kv_vnode.erl" "../" "./")
+
+ ("/Users/dmitry/projects/elixir-learn/" (23844 63080 395047 452000) "Elixir.MeterToFootConverter.beam" "Elixir.MeterToLengthConverter.beam" "Elixir.MeterToFootConverter.Inch.beam" "erl_crash.dump" "length_converter.ex" "Elixir.MeterToLengthConverter.Feet.beam" "Elixir.MeterToLengthConverter2.beam" "Elixir.MeterToFootConverter.Feet.beam" "Elixir.MeterToLengthConverter3.beam" "Elixir.MeterToLengthConverter.Inch.beam" "length_converter-emacs-elixir-format.ex" "../" "./")
+
+ ("/Users/dmitry/projects/estore/" (23846 23670 498937 121000) "exmaplestore/" "src/" "rebar.config" ".travis.yml" "ci.sh" "eqc/" ".git/" ".gitlab-ci.yml" "doc/" "_build/" ".gitignore" "rebar.lock" "README.md" "elvis.config" "LICENSE" "rebar3" "../" "./")
+
+ ("/Users/dmitry/projects/nikola/engineer_blog/output/" (23813 24279 773028 488000) "archive.html" "categories/" "assets/" "galleries/" "robots.txt" "sitemap.xml" "2019/" "sitemapindex.xml" "listings/" "posts/" "index.html" "rss.xml" "../" "./")
+
+ ("/Users/dmitry/projects/nikola/engineer_blog/output/posts/moi-pervyi-post/" (23813 24279 749723 618000) "index.html" "index.rst" "../" "./")
+
+ ("/Users/dmitry/.emacs.d/plugins/" (23750 5784 864282 78000) "yasnippet/" "sr-speedbar.el" "popup-el/" "smex.el" "auto-complete/" "flx/" "ergoemacs-mode/" "color-theme/" "linum+.el" "../" "./")
+
+ ("/Users/dmitry/.emacs.d/" (23813 15031 710067 619000) "#plugins.el#" "elpa/" "recentf" "ergoemacs-extras/" ".cask/" "auto-save-list/" "projectile.cache" "projectile-bookmarks.eld" "plugins/" "smex-items" "ido.last" "snippets/" "ac-comphist.dat" "../" "./")
+
+ ("/Users/dmitry/projects/nikola/engineer_blog/output/posts/" (23813 14019 520484 61000) "moi-pervyi-post/" "../" "./")
+
+ ("/Users/dmitry/projects/nikola/share/" (23813 13097 14646 245000) "jupyter/" "doc/" "man/" "../" "./")
+
+ ("/Users/dmitry/projects/nikola/include/python3.7m/" (23705 16669 0 0) "dynamic_annotations.h" "bytes_methods.h" "pydebug.h" "graminit.h" "listobject.h" "bytesobject.h" "pydtrace_probes.h" "osmodule.h" "longobject.h" "sysmodule.h" "pydtrace.h" "pyport.h" "objimpl.h" "descrobject.h" "opcode.h" "memoryobject.h" "Python.h" "pythread.h" "funcobject.h" "traceback.h" "Python-ast.h" "unicodeobject.h" "pythonrun.h" "osdefs.h" "ucnhash.h" "token.h" "import.h" "pytime.h" "bytearrayobject.h" "structseq.h" "object.h" "pyatomic.h" "pystrhex.h" "dtoa.h" "complexobject.h" "grammar.h" "codecs.h" "setobject.h" "eval.h" "compile.h" "ast.h" "odictobject.h" "symtable.h" "typeslots.h" "moduleobject.h" "enumobject.h" "pymacro.h" "pyfpe.h" "pymacconfig.h" "weakrefobject.h" "pyconfig.h" "pymath.h" "pystrcmp.h" "pyexpat.h" "fileobject.h" "pgenheaders.h" "boolobject.h" "pymem.h" "genobject.h" "methodobject.h" "node.h" "datetime.h" "internal/" "pylifecycle.h" "modsupport.h" "context.h" "abstract.h" "frameobject.h" "patchlevel.h" "pyctype.h" "code.h" "structmember.h" "metagrammar.h" "longintrepr.h" "namespaceobject.h" "floatobject.h" "pystate.h" "ceval.h" "dictobject.h" "parsetok.h" "fileutils.h" "accu.h" "pyerrors.h" "pycapsule.h" "pyhash.h" "pgen.h" "warnings.h" "pystrtod.h" "rangeobject.h" "asdl.h" "iterobject.h" "errcode.h" "py_curses.h" "marshal.h" "bitset.h" "tupleobject.h" "bltinmodule.h" "sliceobject.h" "pyarena.h" "intrcheck.h" "cellobject.h" "classobject.h" "../" "./")
+
+ ("/Users/dmitry/projects/nikola/include/" (23813 12937 215631 946000) "python3.7m/" "../" "./")
+
+ ("/Users/dmitry/projects/nikola/engineer_blog/listings/" (23813 13339 950554 681000) "../" "./")
+
+ ("/Users/dmitry/projects/nikola/engineer_blog/pages/" (23813 13339 950700 474000) "../" "./")
+
+ ("/Users/dmitry/projects/nikola/engineer_blog/files/" (23813 13339 950394 241000) "../" "./")
+
+ ("/Users/dmitry/projects/nikola/" (23813 13339 950324 195000) "share/" "LICENSE.txt" "lib/" "engineer_blog/" "include/" "bin/" ".Python" "../" "./")
+
+ ("/Users/dmitry/projects/gorynich/" (23743 34126 963826 559000) "rebar.config" "apps/" ".git/" "README.rst" "log/" "_build/" ".projectile" "priv/" "rebar.lock" ".editorconfig" "Makefile" "config/" "../" "./")
+
+ ("/Users/dmitry/projects/gorynich/apps/" (23741 24723 955410 521000) "gorynich/" "regis/" "../" "./")
+
+ ("/Users/dmitry/projects/gorynich/apps/gorynich/" (23741 24723 952658 441000) "src/" "../" "./")
+
+ ("/Users/dmitry/projects/rts/" (23740 12444 487810 232000) "src/" "rebar.config" "replay" "deps/" "_build/" ".gitignore" "rel/" "progski.access.log.gz" "rebar.lock" "rebar" "Makefile" "../" "./")
+
+ ("/Users/dmitry/work/estore/src/" (23733 25760 164616 169000) "estore.erl" "efile.erl" "estore.app.src" "../" "./")
+
+ ("/Users/dmitry/work/pulsedb/src/" (23623 27302 519329 538000) "pulsedb_disk.erl" "pulsedb.app.src" "pulsedb.erl" "pulsedb_disk_minutes.erl" "pulsedb_collector.erl" "pulsedb.hrl" "pulsedb_parser.erl" "pulsedb_netpush_handler.erl" "pulsedb_netpush_auth.erl" ".gitignore" "query_lexer.erl" "pulsedb_query.erl" "pulsedb_points_handler.erl" "pulsedb_realtime.erl" "pulsedb_data.erl" "pulsedb_aggregator.erl" "pulsedb_sharded.erl" "pulsedb_embed_cache.erl" "query_lexer.xrl" "pulsedb_memory.erl" "query_parser.erl" "pulsedb_sup.erl" "pulsedb_worker.erl" "pulsedb_netpush.erl" "pulsedb_launcher.erl" "pulsedb_app.erl" "query_parser.yrl" "pulsedb_disk_seconds.erl" "pulsedb_time.erl" "pulsedb_graphic_handler.erl" "../" "./")
+
+ ("/Users/dmitry/work/pulsedb/" (23623 65296 193185 945000) "src/" "rebar.config" ".travis.yml" "data/" "LICENSE.txt" ".git/" "deps/" "Vagrantfile" "_build/" ".gitignore" "priv/" "rebar.lock" "README.md" "contrib/" "Emakefile" "webroot/" "rebar" "CHANGES" "deploy/" "Makefile" "test/" "ebin/" "../" "./")
+
+ ("/Users/dmitry/work/gorynich/apps/" (23734 16157 365500 983000) "gorynich/" "regis/" "../" "./")
+
+ ("/Users/dmitry/work/gorynich/" (23734 43489 991791 341000) "rebar.config" "apps/" ".git/" "README.rst" "_build/" "priv/" "rebar.lock" ".editorconfig" "Makefile" "config/" "../" "./")
+
+ ("/Users/dmitry/work/bitmap/src/" (23734 16606 264321 587000) "bitmap.app.src" "bitmap.erl" "../" "./")
+
+ ("/Users/dmitry/work/" (23734 15822 257463 296000) "store/" "basho_bench/" "bitcask/" "lasp-bench/" "hanoidb/" "riak_ql/" "chash/" "tanodb/" "gorynich/" "estore/" "mnt/" "mkvs/" "trie/" "dalmatinerdb/" "rebar3.crashdump" "erltest/" "mfiles/" "elastic_monitoring.tar.gz" "bitmap/" "distr.tar.gz" "minishard/" "test/" "pulsedb/" "erlbench/" "mstore/" "../" "./")
+
+ ("/Users/dmitry/work/mfiles/apps/mfiles/src/" (23732 62687 740030 726000) "mfiles_app.erl" "mfiles_sup.erl" "mfiles.app.src" "mfiles.erl" "../" "./")
+
+ ("/Users/dmitry/work/dalmatinerdb/apps/metric_vnode/src/" (23732 63172 617633 323000) "metric_io_cli.erl" "metric_coverage.erl" "metric.erl" "metric_cache_cli.erl" "metric_vnode.erl" "metric_io.erl" "metric_vnode_app.erl" "metric_worker.erl" "metric_coverage_sup.erl" "metric_vnode.hrl" "metric_vnode_sup.erl" "metric_vnode.app.src" "metric_io_worker.erl" "../" "./")
+
+ ("/Users/dmitry/.emacs.d/plugins/flymake/" (23732 63436 962215 257000) "eflymake" "../" "./")
+
+ ("/Users/dmitry/work/dalmatinerdb/apps/metric_vnode/" (23564 16318 743785 88000) "src/" "eqc/" "include/" "../" "./")
+
+ ("/Users/dmitry/work/dalmatinerdb/apps/" (23564 16318 742570 181000) "dalmatiner_opt/" "dalmatiner_metric/" "event_vnode/" "metric_vnode/" "dalmatiner_db/" "dalmatiner_vacuum/" "../" "./")
+
+ ("/Users/dmitry/work/dalmatinerdb/" (23565 8290 303776 100000) "rebar.config" "share/" ".travis.yml" "apps/" "eqc/" ".git/" ".gitlab-ci.yml" "fifo.mk" "_build/" "hooks/" ".gitignore" "rel/" "config.mk" "rebar.lock" "schema/" "README.md" "elvis.config" "ddc-send" "rebar_eqc.config" "Makefile" "LICENSE" "dialyzer.mittigate" "rebar3" "tree" "../" "./")
+
+ ("/Users/dmitry/work/mfiles/apps/mfiles/" (23635 24326 241147 860000) "src/" "../" "./")
+
+ ("/Users/dmitry/work/mfiles/apps/" (23635 24326 241036 578000) "mfiles/" "../" "./")
+
+ ("/Users/dmitry/work/mfiles/" (23635 26480 182309 259000) "rebar.config" "apps/" "_build/" ".gitignore" "rebar.lock" "README.md" "config/" "LICENSE" "../" "./")
+
+ ("/Users/dmitry/work/bitmap/" (23627 28509 905332 249000) "src/" "rebar.config" "eqc/" ".git/" "variables-ct@MacBook-Pro-Dmitry" ".gitlab-ci.yml" "_build/" "ct_default.css" ".gitignore" "rebar.lock" "variables-nonode@nohost" "README.md" "rebar3.crashdump" "jquery-latest.js" "elvis.config" "all_runs.html" "ct_log_cache" "test/" "jquery.tablesorter.min.js" "LICENSE" "suite.log.latest.html" "index.html" "rebar3" "../" "./")
+
+ ("/Users/dmitry/work/estore/" (23614 13673 271340 156000) "src/" "rebar.config" ".travis.yml" "ci.sh" "eqc/" ".git/" ".gitlab-ci.yml" "doc/" ".gitignore" "rebar.lock" "README.md" "elvis.config" "LICENSE" "rebar3" "../" "./")
+
+ ("/Users/" (23550 56440 371918 394000) "Guest/" "Shared/" ".localized" "dmitry/" "../" "./")
+
+ ("/Users/dmitry/.emacs.d/plugins/yasnippet/" (23731 39733 956711 120000) "pkg/" ".travis.yml" ".git/" "doc/" "CONTRIBUTING.md" ".gitignore" "NEWS" "Rakefile" "README.mdown" ".gitmodules" "yasnippet-tests.el" "yasnippet.el" "yasnippet-debug.el" "../" "./")
+
+ ("/Users/dmitry/work/mstore/src/" (23564 5231 914968 777000) "mfile.erl" "mstore.app.src" "mstore.erl" "../" "./")
+
+ ("/Users/dmitry/work/mstore/" (23606 51699 849243 651000) "src/" "rebar.config" ".travis.yml" "ci.sh" "eqc/" "EQC_CI_LICENCE.txt" ".git/" "bench.hpts/" ".gitlab-ci.yml" "_build/" ".gitignore" "rebar.lock" "README.md" ".eqc_ci" "elvis.config" "include/" "Makefile" "test/" "LICENSE" "dialyzer.mittigate" "rebar3" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

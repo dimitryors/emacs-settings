@@ -1,0 +1,42 @@
+((("asda" .
+   [1 0 0 0])
+  ("adas" .
+   [1 0 0 1])
+  ("exec-path-from-shell" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0])
+  ("p" .
+   [1])
+  ("load" .
+   [1 0 0 0])
+  ("org-mind-map" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("bs-show" .
+   [0 0 0 0 0 1 0])
+  ("color-theme-charcoal-black" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0])
+  ("color-theme-bharadwaj-slate" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("color-theme-bharadwaj" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("~/.emacs.d/plugins" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("~/.emacs.d/plugins/distel/elisp" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("global-unset-key" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("kbd" .
+   [2 0 1])
+  ("my-key-map" .
+   [0 0 1 0 0 0 0 0 0 2])
+  ("require" .
+   [1 0 0 0 0 0 0])
+  ("org-mode" .
+   [1 0 0 0 0 0 0 0])
+  ("org-install" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("define-key" .
+   [0 0 0 0 0 0 1 0 0 1])
+  ("alchemist-key" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("alchemist-key-command-prefix" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])))

@@ -1,0 +1,1 @@
+("~/projects/estore/" "~/projects/simplestore/" "~/projects/gorynich/" "~/projects/estore_/" "~/projects/rts/" "~/projects/rts/_build/" "~/projects/rts/deps/" "~/projects/rts/rel/" "~/projects/rts/src/" "~/work/pulsedb/")
